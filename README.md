@@ -58,6 +58,7 @@ systemctl --user enable redshift
 
 Now you have Qtile set up with my configuration. If something isn't working, check for errors using:  
 ```sh
+sudo rm /usr/lib/python3.13/EXTERNALLY-MANAGED
 pip install mypy types-setuptools
 export PATH=$HOME/.local/bin:$PATH
 qtile check

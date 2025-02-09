@@ -104,6 +104,7 @@ kitty +kitten themes
 
 
 ## 📂 File structure
+```
 ~/.config/
 kitty/    
 picom/    #to eliminate tearing and add transparency
@@ -111,7 +112,7 @@ redshift/ #to reduce blue light
 qtile/
 ├── config.py        #main Qtile
 ├── autostart.sh     #autostart config
-
+```
 
 ## 📸 Screenshots
 ```

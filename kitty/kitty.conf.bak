@@ -1,0 +1,6 @@
+font_size 14
+
+# BEGIN_KITTY_THEME
+# Atelier Savanna Dark
+include current-theme.conf
+# END_KITTY_THEME

@@ -115,8 +115,8 @@ qtile/
 
 ## 📸 Screenshots
 ```
-#![](./screenshots/qtile1.png)
-#![Another Screenshot](./screenshots/qtile2.png)
+![](./screenshots/qtile1.png)
+![Another Screenshot](./screenshots/qtile2.png)
 ```
 
 ## 📜 License

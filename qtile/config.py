@@ -205,7 +205,7 @@ screens = [
                 widget.Prompt(),
                 widget.WindowName(),
                 widget.Wttr(
-                    location={'Mariupol': 'Home'},
+                    location={'your city': 'Home'},
                     format="%f",
                     ),
 		widget.Sep(),

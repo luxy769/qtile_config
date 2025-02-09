@@ -83,14 +83,27 @@ qtile check
 ## 🎨 Appearance
 - Uses **Picom** for transparency, I have a minimalistic config,
   but you can easily adapt it to your needs
-- Dark color scheme 
+- Dark color scheme
+  
+## Kitty
 - If you want Kitty to change the theme automatically to match the background color, use pywal:
 ```sh
 pip install --user pywal
 wal -i /path/to/image.jpg
 ```
-## 📂 File structure
+-Selection of preset themes
+```sh
+nano ~/.config/kitty/kitty.conf
+font_size 17.0
 ```
+ run in therminal:
+```sh
+kitty +kitten themes
+```
+
+
+
+## 📂 File structure
 ~/.config/
 kitty/    
 picom/    #to eliminate tearing and add transparency
@@ -99,7 +112,6 @@ qtile/
 ├── config.py        #main Qtile
 ├── autostart.sh     #autostart config
 
-```
 
 ## 📸 Screenshots
 ```

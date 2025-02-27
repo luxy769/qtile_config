@@ -20,7 +20,7 @@ sudo pacman -S xorg xorg-xinit qtile python-pip kitty picom redshift git nano ne
 ## 📥 **2. Cloning the Configuration**  
 
 ```sh
-git clone git@github.com:luxy769/qtile_config.git ~/.config
+git clone https://github.com/luxy769/qtile_config.git
 ```
 ---
 
